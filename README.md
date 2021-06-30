@@ -1,0 +1,1 @@
+# how-to-fit-the-column-based-on-the-different-text-style-in-Flutter-DataTable-sfdatagrid
